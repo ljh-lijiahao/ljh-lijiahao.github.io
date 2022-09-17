@@ -4,7 +4,7 @@
  
  Hahaha you can say the same, 111 means 1 life 1 life love 1 person
  
- I will put all the code I wrote here, but I am still a newbie, please Haihan
+ Keep writing and publishing articles about tech comm (technical writing, stories, self-improvement, etc.)
  
  This is my homepage [ljh-lijiahao](https://ljh-lijiahao.github.io)
  
