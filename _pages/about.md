@@ -20,10 +20,3 @@ redirect_from:
  
  This is my homepage [ljh-lijiahao](https://ljh-lijiahao.github.io)
  
- 
- ![ljh-lijiahao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljh-lijiahao&show_icons=true&theme=flag-india)
- 
-
-
-
-
