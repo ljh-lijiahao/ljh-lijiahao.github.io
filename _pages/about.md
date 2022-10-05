@@ -14,7 +14,7 @@ redirect_from:
  
  The meaning of 111 is to do only one thing in one life and one life, and that is to write code
  
- Hahaha you can say the same, 111 means 1 life 1 life love 1 person
+ Hahaha you can say the same, 111 means Love zht, choose a city, a lifetime
  
  Keep writing and publishing articles about tech comm (technical writing, stories, self-improvement, etc.)
  
